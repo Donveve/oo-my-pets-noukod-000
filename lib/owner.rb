@@ -73,4 +73,4 @@
     @@all.size
   end
 end
-end
+
