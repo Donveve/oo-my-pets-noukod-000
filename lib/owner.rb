@@ -73,4 +73,3 @@
     @@all.size
   end
 end
-
